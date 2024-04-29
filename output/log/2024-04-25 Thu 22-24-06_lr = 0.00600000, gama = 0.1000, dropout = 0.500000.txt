@@ -1,0 +1,2 @@
+lr = 0.00600000, gama = 0.1000, dropout = 0.500000
+epoch train_loss test_loss time best_epoch
